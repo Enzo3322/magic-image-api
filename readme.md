@@ -1,6 +1,6 @@
-# Image resize API
+# Magic image API
 
-This API resize images using ffmpeg multer and express.
+This API resize and crop images using ffmpeg multer sharp and express.
 
 Run:
 ``npm i && npm run start``
